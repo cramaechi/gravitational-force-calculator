@@ -1,5 +1,5 @@
 all:
-	g++ main.cpp -o gravitational_force
+	g++ main.cpp -o gforce_calculator
 
 clean:
-	gravitational_force
+	gforce_calculator

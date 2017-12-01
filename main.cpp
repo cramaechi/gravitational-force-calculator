@@ -18,7 +18,7 @@ int main(int argc, char* argv[])
 
    do
    {
-	   cout<<"Enter the masses (in pounds) of two bodies and the distance (in feet) between them: ";
+	   cout<<"Enter the masses (in kilograms) of two objects and the distance (in meters) between them: ";
 	   cin>>m1;
 	   cin>>m2;
 	   cin>>d;
