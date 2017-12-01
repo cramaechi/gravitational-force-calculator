@@ -32,16 +32,16 @@ $ ./gforce_calculator
 
 Sample Output:
 ```
-Enter the masses (in pounds) of two bodies and the distance (in feet) between them: 225 115 23                                                                                                                                                
+Enter the masses (in kilograms) of two objects and the distance (in meters) between them: 100 150 6                                                                                                                                           
                                                                                                                                                                                                                                               
-The gravitational force between the two bodies is 0.000003263967391 dynes                                                                                                                                                                     
+The gravitational force between the two bodies is 0.000027804166667 dynes                                                                                                                                                                     
                                                                                                                                                                                                                                               
 Start over? (y/n) y                                                                                                                                                                                                                           
                                                                                                                                                                                                                                               
                                                                                                                                                                                                                                               
-Enter the masses (in pounds) of two bodies and the distance (in feet) between them: 143.3 96 18                                                                                                                                               
+Enter the masses (in kilograms) of two objects and the distance (in meters) between them: 96 210 10                                                                                                                                           
                                                                                                                                                                                                                                               
-The gravitational force between the two bodies is 0.000002833306370 dynes                                                                                                                                                                     
+The gravitational force between the two bodies is 0.000013452768000 dynes                                                                                                                                                                     
                                                                                                                                                                                                                                               
 Start over? (y/n) n
 ```
